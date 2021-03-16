@@ -1,0 +1,7 @@
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Informatika\Amikom\Semester 2\TUGAS CALCULAROR\Calculator\Calculator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
