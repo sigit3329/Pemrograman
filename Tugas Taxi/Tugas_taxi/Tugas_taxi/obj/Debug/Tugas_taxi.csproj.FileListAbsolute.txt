@@ -1,0 +1,7 @@
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\obj\Debug\Tugas_taxi.csprojAssemblyReference.cache
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\obj\Debug\Tugas_taxi.csproj.CoreCompileInputs.cache
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\bin\Debug\Tugas_taxi.exe.config
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\bin\Debug\Tugas_taxi.exe
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\bin\Debug\Tugas_taxi.pdb
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\obj\Debug\Tugas_taxi.exe
+G:\Semester 2\Pemrograman\Tugas Taxi\Tugas_taxi\Tugas_taxi\obj\Debug\Tugas_taxi.pdb
