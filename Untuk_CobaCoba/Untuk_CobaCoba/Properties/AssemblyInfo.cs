@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pemrograman")]
+[assembly: AssemblyTitle("Untuk_CobaCoba")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Pemrograman")]
+[assembly: AssemblyProduct("Untuk_CobaCoba")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3f69c6ed-0908-4e26-bd7c-c0e8da5f7188")]
+[assembly: Guid("438381d0-1b63-4c96-afda-d3f567e9203c")]
 
 // Version information for an assembly consists of the following four values:
 //

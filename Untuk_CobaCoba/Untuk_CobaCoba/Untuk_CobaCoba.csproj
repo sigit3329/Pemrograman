@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{94C23981-8098-4C23-A964-57F553A2EABF}</ProjectGuid>
+    <ProjectGuid>{438381D0-1B63-4C96-AFDA-D3F567E9203C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>coba</RootNamespace>
-    <AssemblyName>coba</AssemblyName>
+    <RootNamespace>Untuk_CobaCoba</RootNamespace>
+    <AssemblyName>Untuk_CobaCoba</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pemrograman
+namespace Untuk_CobaCoba
 {
     class Program
     {
         static void Main(string[] args)
         {
-             
         }
     }
 }
