@@ -1,0 +1,7 @@
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\bin\Debug\ResponsiPemrograman3329.exe.config
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\bin\Debug\ResponsiPemrograman3329.exe
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\bin\Debug\ResponsiPemrograman3329.pdb
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\obj\Debug\ResponsiPemrograman3329.csprojAssemblyReference.cache
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\obj\Debug\ResponsiPemrograman3329.csproj.CoreCompileInputs.cache
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\obj\Debug\ResponsiPemrograman3329.exe
+G:\Semester 2\Pemrograman\ResponsiPemrograman3329\ResponsiPemrograman3329\obj\Debug\ResponsiPemrograman3329.pdb
